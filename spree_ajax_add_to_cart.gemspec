@@ -3,12 +3,12 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_ajax_add_to_cart'
   s.version     = '2.3.4'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'Allow to add to cart from spree catalogue'
+  s.description = 'A gem that Allow to add to cart from spree catalogue'
   s.required_ruby_version = '>= 1.9.3'
 
-  s.author    = 'BestBOON C.A'
-  s.email     = 'info@bestboon.com'
+  s.author    = 'LN'
+  s.email     = 'long.polyglot@gmail.com'
   s.homepage  = 'http://www.bestboon.com'
 
   #s.files       = `git ls-files`.split("\n")
